@@ -1,0 +1,23 @@
+@import url('https://www.1001fonts.com/andimante-personal-use-font.html?fg=ffffff&bg=000000');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+.font-ss {
+    font-family: 'Andimante';
+    font-size: 25px;
+}
+
+.font-montserrat {
+    font-family: 'Montserrat';
+}
+
+.font-simple-minimalist {
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing: auto;
+}
+
+.font-test {
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+}
